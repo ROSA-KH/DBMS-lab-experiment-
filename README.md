@@ -1,8 +1,19 @@
-# DBMS Lab Experiments
 
-This repository contains MySQL-based implementations for common database operations taught in a **Database Management Systems (DBMS)** lab. Each experiment includes aim, theory, syntax, SQL code, and results where applicable.
+# 📘 DBMS Lab Experiments – MySQL
 
-> ✅ Designed for students and educators to practice SQL operations and understand database concepts effectively.
+Welcome to the **Database Management Systems Lab** repository!  
+This project contains all the essential SQL experiments commonly practiced in university labs using **MySQL**.
+
+---
+
+## 👨‍🎓 About the Project
+
+This lab file is created by a **2nd Year B.Tech CSE student (4th Semester)** for academic purposes.  
+It covers basic to intermediate SQL concepts using practical examples.
+
+> ⚠️ **Note:** This is a student-level project and not meant for professional deployment.  
+If you find it helpful, feel free to use it and share with your classmates. Enjoy learning SQL! 😊
+
 
 ---
 
@@ -76,31 +87,14 @@ This repository contains MySQL-based implementations for common database operati
 
 ---
 
-## 📁 Folder Structure (Suggested)
-```
-DBMS-Lab/
-├── README.md
-├── ER-Diagram/
-│   └── university-er.pdf/png
-├── Experiment-02-DDL-Commands.sql
-├── Experiment-03-DML-Commands.sql
-├── Experiment-04-Set-Clauses.sql
-├── Experiment-05-Functions.sql
-├── Experiment-06-Joins.sql
-├── Experiment-07-Subqueries.sql
-├── Experiment-08-Views.sql
-```
-
----
-
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
 ## 🧠 Author
-**Your Name**  
-B.Tech Student | DBMS Enthusiast
+**Rosa**  
+B.Tech CSE Student | DBMS Enthusiast
 
 ---
 
@@ -109,4 +103,7 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to ⭐ star this repo if it helped you in your DBMS lab preparation!
+## 👋 Final Note
+
+Thanks for visiting!  
+**Happy Learning and All the Best for Your DBMS Lab! 💻📚**
